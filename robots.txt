@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://farhansadik651.github.io/kalpani-mondolpara/sitemap.xml
